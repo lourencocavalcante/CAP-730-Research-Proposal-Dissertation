@@ -7,6 +7,8 @@ ARM: https://www.arm.gov/data/<br>
 Importante: https://www.arm.gov/data/work-with-arm-data/<br>
 https://www.arm.gov/guidance/coding-guidelines<br><br>
 
+DATA ACQUISITION & USE: https://www.arm.gov/guidance/datause<br>
+
 CODE:<br>
 https://pypi.org/project/act-atmos/ <br>
 
